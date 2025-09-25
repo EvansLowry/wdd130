@@ -12,6 +12,10 @@ main {
     max-width: 840px;
 }
 
+h1 {
+    color: #000;
+}
+
 h2 {
     color: darkblue;
 }
@@ -19,6 +23,7 @@ main img {
     width: 150px;
     height: auto;
     border: 1px solid black;
+    padding: 20px;
     box-shadow: 0 0 30px gray;
 }
 p {
@@ -39,7 +44,9 @@ aside img {
     width: 200px;
     height: auto;
 }
+
 p { padding: 0;}
+
 footer {
     margin-top: 15px;
     border-top: 1px solid #000;
